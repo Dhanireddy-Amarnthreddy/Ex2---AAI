@@ -1,4 +1,4 @@
-<H3>Enter Name : D.Amarnath Reddy S</H3>
+<H3>Enter Name : D.Amarnath Reddy </H3>
 <H3>Enter Register No: 212221240012</H3>
 <H3>Experiment 2</H3>
 <H3>Date : 27/02/2024</H3>
